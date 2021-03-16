@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019-2020 The Dirty Unicorns Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+     
+     Translated by: Fernando Sánchez (@fernandosanch)
+-->
+<resources>
+
+    <string name="app_name">Temas</string>
+
+    <!-- Accent Picker -->
+    <string name="accent_picker_dialog_title">Seleccionar un acento</string>
+    <string name="theme_accent_picker_title">Color de acento</string>
+    <string name="theme_accent_picker_summary">Seleccionar el color de acento para el sistema</string>
+    <string name="theme_accent_picker_default">Por defecto</string>
+    <string name="accent_picker_stock_colors">Stock</string>
+    <string name="accent_picker_custom_colors">Custom</string>
+    <string name="accent_picker_brand_colors">Marca</string>
+
+    <!-- Navbar Picker -->
+    <string name="theme_navbar_picker_title">Estilo de barra de navegación</string>
+    <string name="theme_navbar_picker_summary">Seleccionar estilo</string>
+    <string name="theme_navbar_picker_oneplus">OnePlus</string>
+    <string name="theme_navbar_picker_oneui">One UI</string>
+    <string name="theme_navbar_picker_tecno">Tecno Camon</string>
+    <string name="theme_navbar_picker_asus">ASUS</string>
+    <string name="theme_navbar_picker_android">Android</string>
+    <string name="theme_navbar_picker_moto">Moto</string>
+    <string name="theme_navbar_picker_nexus">Nexus</string>
+    <string name="theme_navbar_picker_old">Old</string>
+    <string name="theme_navbar_picker_sammy">Samsung</string>
+
+    <!-- Dark theme -->
+    <string name="dark_theme_title">Tema oscuro</string>
+
+    <!-- Adaptive icon shapes -->
+    <string name="adaptive_icon_shape_default">Por defecto</string>
+    <string name="adaptive_icon_shape_pebble">Pebble</string>
+    <string name="adaptive_icon_shape_vessel">Vessel</string>
+    <string name="adaptive_icon_shape_taperedrect">Tapered Rectangle</string>
+    <string name="adaptive_icon_shape_teardrop">Teardrop</string>
+    <string name="adaptive_icon_shape_squircle">Squircle</string>
+    <string name="adaptive_icon_shape_roundedrect">Rounded Rectangle</string>
+    <string name="adaptive_icon_shape_square">Square</string>
+    <string name="adaptive_icon_shape_hexagon">Hexagon</string>
+    <string name="adaptive_icon_shape_cylinder">Cylinder</string>
+    <string name="adaptive_icon_shape_heart">Heart</string>
+    <string name="adaptive_icon_shape_title">Icon shape</string>
+    <string name="adaptive_icon_shape_dialog_title">Seleccionar forma</string>
+
+    <!-- Statusbar icons -->
+    <string name="statusbar_icons_default">Por defecto</string>
+    <string name="statusbar_icons_filled">Relleno</string>
+    <string name="statusbar_icons_rounded">Redondeado</string>
+    <string name="statusbar_icons_circular">Circular</string>
+    <string name="statusbar_icons_kai" translatable="false">Kai</string>
+    <string name="statusbar_icons_sam" translatable="false">Sam</string>
+    <string name="statusbar_icons_victor" translatable="false">Victor</string>
+    <string name="statusbar_icons_title">Iconos de ajustes rápidos/barra de estado</string>
+    <string name="statusbar_icons_dialog_title">Seleccionar iconos de barra de estado</string>
+
+    <!-- Switch styles -->
+    <string name="switch_style_title">Estilo de interruptor</string>
+    <string name="switch_default">Por defecto</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_tg">Telegram</string>
+    <string name="switch_narrow">Narrow</string>
+    <string name="switch_contained">Contained</string>
+    <string name="switch_retro">Retro</string>
+    <string name="switch_stockish">Stockish</string>
+    <string name="switch_style_dialog_title">Seleccionar estilo de interruptor</string>
+
+    <!-- Accents -->
+    <string name="accent_colors_space">Space</string>
+    <string name="accent_colors_purple">Purple</string>
+    <string name="accent_colors_orchid">Orchid</string>
+    <string name="accent_colors_ocean">Ocean</string>
+    <string name="accent_colors_green">Verde</string>
+    <string name="accent_colors_cinnamon">Cinnamon</string>
+    <string name="accent_colors_amethyst">Amethyst</string>
+    <string name="accent_colors_aquamarine">Aquamarine</string>
+    <string name="accent_colors_carbon">Carbon</string>
+    <string name="accent_colors_palette">Palette</string>
+    <string name="accent_colors_sand">Sand</string>
+    <string name="accent_colors_tangerine">Tangerine</string>
+    <string name="accent_colors_amber">Amber</string>
+    <string name="accent_colors_azureradiance">AzureRadiance</string>
+    <string name="accent_colors_blue">Azul</string>
+    <string name="accent_colors_bluegrey">Azul grisaceo</string>
+    <string name="accent_colors_brown">Marrón</string>
+    <string name="accent_colors_cyan">Cyan</string>
+    <string name="accent_colors_deeporange">Deep Orange</string>
+    <string name="accent_colors_deeppurple">Deep Purple</string>
+    <string name="accent_colors_grey">Gris</string>
+    <string name="accent_colors_indigo">Indigo</string>
+    <string name="accent_colors_lightblue">Azul claro</string>
+    <string name="accent_colors_lightgreen">Verde claro</string>
+    <string name="accent_colors_lime">Lima</string>
+    <string name="accent_colors_orange">Naranja</string>
+    <string name="accent_colors_pink">Rosa</string>
+    <string name="accent_colors_red">Rojo</string>
+    <string name="accent_colors_teal">Teal</string>
+    <string name="accent_colors_yellow">Amarillo</string>
+    <string name="accent_colors_androidonegreen">AndroidOneGreen</string>
+    <string name="accent_colors_cocacolared">CocaColaRed</string>
+    <string name="accent_colors_discordpurple">DiscordPurple</string>
+    <string name="accent_colors_facebookblue">FacebookBlue</string>
+    <string name="accent_colors_instagramcerise">InstagramCerise</string>
+    <string name="accent_colors_jollibeecrimson">JollibeeCrimson</string>
+    <string name="accent_colors_monsterenergygreen">MonsterEnergyGreen</string>
+    <string name="accent_colors_nextbitmint">NextbitMint</string>
+    <string name="accent_colors_oneplusred">OneplusRed</string>
+    <string name="accent_colors_pepsiblue">PepsiBlue</string>
+    <string name="accent_colors_pocophoneyellow">PocophoneYellow</string>
+    <string name="accent_colors_razergreen">RazerGreen</string>
+    <string name="accent_colors_samsungblue">SamsungBlue</string>
+    <string name="accent_colors_spotifygreen">SpotifyGreen</string>
+    <string name="accent_colors_starbucksgreen">StarbucksGreen</string>
+    <string name="accent_colors_twitchpurple">TwitchPurple</string>
+    <string name="accent_colors_twitterblue">TwitterBlue</string>
+    <string name="accent_colors_xboxgreen">XboxGreen</string>
+    <string name="accent_colors_xiaomiorange">XiaomiOrange</string>
+
+    <!-- Themes -->
+    <string name="theme_type_title">Tema del sistema</string>
+    <string name="theme_type_summary">Seleccionar tema</string>
+    <string name="theme_type_light">Light</string>
+    <string name="theme_type_google_dark">Google dark</string>
+    <string name="theme_type_pitch_black">Pitch black</string>
+    <string name="theme_type_solarized_dark">Solarized dark</string>
+    <string name="theme_type_choco_x">Choco X</string>
+    <string name="theme_type_baked_green">Baked green</string>
+    <string name="theme_type_dark_grey">Dark grey</string>
+    <string name="theme_type_material_ocean">Material ocean</string>
+    <string name="theme_type_transparent_clear">transparent clear</string>
+    <string name="theme_other_category_title">Otro</string>
+    <string name="theme_backup_title">Guardar tema</string>
+    <string name="theme_backup_summary">Guardar tu configuración actual</string>
+    <string name="theme_backup_reach_limit_summary">Limite de copia de seguridad alcanzado</string>
+    <string name="theme_restore_title">Restaurar tema</string>
+    <string name="theme_restore_summary">Restaurar configuración</string>
+    <string name="theme_restore_no_backup_summary">Sin copia de seguridad</string>
+    <string name="theme_restore_popup_title">Deslizar hacia un lado para ver más copias de seguridad</string>
+    <string name="theme_name_exist_warning">Esta copia de seguridad ya existe. Ingresa otro nombre</string>
+    <string name="theme_rename_dialog_title">Renombrar tema</string>
+    <string name="theme_button_apply_theme">Aplicar tema</string>
+    <string name="theme_button_delete_theme">Eliminar tema</string>
+    <string name="theme_switch_persistent_title">Estado de interruptores persistentes</string>
+    <string name="theme_switch_restore_theme_color">Color de fondo</string>
+    <string name="theme_switch_restore_accent_color">Color de acento</string>
+    <string name="theme_switch_restore_font_type">Tipo de fuente</string>
+    <string name="theme_switch_restore_adaptative_icons">Iconos adaptivos</string>
+    <string name="theme_switch_restore_sb_icons">Iconos de barra de estado</string>
+    <string name="theme_switch_restore_qstiles">Estilos de ajustes rápidos</string>
+    <string name="theme_switch_restore_navbar">Barra de navegación</string>
+    <string name="theme_switch_restore_wallpaper">Fondo de pantalla</string>
+    <string name="theme_backup_edittext_hint">Copia de seguridad</string>
+    <string name="theme_backup_dialog_title">Live Wallpaper detectado</string>
+    <string name="theme_backup_dialog_message">Parece que has aplicado un live wallpaper.\n\nPor favor nota que los live wallpapers no se guardarán. En su lugar, el fondo por defecto se guardará.</string>
+    <string name="theme_reset_dialog_title">Restaurar las opciones de tema</string>
+    <string name="theme_reset_dialog_message">Todas las opciones de tema se restaurarán por defecto. Lo agendado no se verá afectado.</string>
+    <string name="theme_reset_toast">Opciones de tema restauradas por defecto</string>
+
+    <!-- Theme schedule -->
+    <string name="theme_schedule_title">Programar</string>
+    <string name="theme_schedule_summary">Programar temas del sistema</string>
+    <string name="theme_schedule_dyn_summary">Tema programado</string>
+    <string name="theme_schedule_theme_title">Programar tema</string>
+    <string name="theme_schedule_theme_summary">Selecciona un tema para programar</string>
+    <string name="theme_schedule_none">Ninguno</string>
+    <string name="theme_schedule_custom_time">Encender a una hora determinada</string>
+    <string name="theme_schedule_applied">Tema aplicado</string>
+    <string name="theme_schedule_start_scheduled">El tema comienza a</string>
+    <string name="theme_schedule_repeat_title">Repetir programación</string>
+    <string name="theme_schedule_repeat_summary">Repetir a diario</string>
+    <string name="theme_schedule_toasts_title">Mostrar toasts</string>
+    <string name="theme_schedule_toasts_summary">Mostrar toast cuando temas programados se activen</string>
+
+    <!-- Clock style -->
+    <string name="clock_style_title">Estilo del reloj</string>
+    <string name="clock_style_summary">Configurar reloj de pantalla de bloqueo</string>
+
+    <!-- Fonts -->
+    <string name="font_type_title">Fuente</string>
+    <string name="font_type_summary">Seleccionar fuente</string>
+    <string name="font_type_default">Por defecto</string>
+    <string name="font_type_2">Noto Serif / Source Sans Pro</string>
+    <string name="font_type_3">Aclonica</string>
+    <string name="font_type_4">Amarante</string>
+    <string name="font_type_5">Arvolato</string>
+    <string name="font_type_6">Bariol</string>
+    <string name="font_type_7">Cagliostro</string>
+    <string name="font_type_8">CircularStd</string>
+    <string name="font_type_9">Comic Sans</string>
+    <string name="font_type_10">Comfortaa</string>
+    <string name="font_type_11">Cool Story</string>
+    <string name="font_type_12">Exotwo</string>
+    <string name="font_type_13">Fira Sans</string>
+    <string name="font_type_14">Google Sans</string>
+    <string name="font_type_15">LG Smart Gothic</string>
+    <string name="font_type_16">Rosemary</string>
+    <string name="font_type_17">Rubik</string>
+    <string name="font_type_18">Samsung One</string>
+    <string name="font_type_19">San Francisco Pro</string>
+    <string name="font_type_20">OnePlus Slate</string>
+    <string name="font_type_21">Sony Sketch</string>
+    <string name="font_type_22">Storopia</string>
+    <string name="font_type_23">Surfer</string>
+    <string name="font_type_24">Ubuntu</string>
+    <string name="font_type_25">Linotte</string>
+    <string name="font_type_26">Inter</string>
+    <string name="font_type_27">Manrope</string>
+    <string name="font_type_28">OnePlusSans</string>
+    <string name="font_type_29">Aileron</string>
+    <string name="font_type_30">Urbanist</string>
+
+    <!-- QS tile styles -->
+    <string name="theme_qsstyle_picker_title">Estilo de ajustes rápidos</string>
+    <string name="theme_qsstyle_picker_summary">Seleccionar estilo</string>
+    <string name="qstile_default">Default</string>
+    <string name="qstile_circle_trim">Circle with trim</string>
+    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
+    <string name="qstile_squircle_trim">Squircle with trim</string>
+    <string name="qstile_attempt_mountain">Attempt Mountain</string>
+    <string name="qstile_cosmos">Cosmos</string>
+    <string name="qstile_dotted_circle">Dotted Circle</string>
+    <string name="qstile_ninja">Ninja</string>
+    <string name="qstile_poke_sign">Poke Sign</string>
+    <string name="qstile_wavey">Wavey</string>
+
+    <!-- Panel Background style -->
+    <string name="panel_bg_title">Estilo del fondo del panel</string>
+    <string name="panel_bg_dialog_title">Seleccionar modelo del fondo del panel</string>
+    <string name="panel_default">Default</string>
+    <string name="panel_batik">Batik</string>
+    <string name="panel_kece">Kece</string>
+    <string name="panel_outline">Outline</string>
+
+    <string name="rounded_ui_title">Rounded corner</string>
+    <string name="rounded_ui_dialog_title">Seleccionar modelo de esquinas redondeadas</string>
+    <string name="rounded_style_default">Default</string>
+    <string name="rounded_style_rectangle">Rectangulo</string>
+    <string name="rounded_style_large">Grande</string>
+    <string name="rounded_style_medium">Mediano</string>
+
+</resources>
