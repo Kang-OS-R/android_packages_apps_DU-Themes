@@ -27,17 +27,17 @@
     <string name="theme_accent_picker_default">По умолчанию</string>
     <string name="accent_picker_stock_colors">Стандартная</string>
     <string name="accent_picker_custom_colors">Своя</string>
-    <string name="accent_picker_brand_colors">Марка</string>
+    <string name="accent_picker_brand_colors">Бренд</string>
 
     <!-- Navbar Picker -->
     <string name="theme_navbar_picker_title">Стиль навигационной панели</string>
     <string name="theme_navbar_picker_summary">Выберите стиль навигационной панели</string>
     <string name="theme_navbar_picker_oneplus">OnePlus</string>
-    <string name="theme_navbar_picker_oneui">Единый интерфейс</string>
+    <string name="theme_navbar_picker_oneui">One UI</string>
     <string name="theme_navbar_picker_tecno">Tecno Camon</string>
     <string name="theme_navbar_picker_asus">ASUS</string>
     <string name="theme_navbar_picker_android">Android</string>
-    <string name="theme_navbar_picker_moto">Мото</string>
+    <string name="theme_navbar_picker_moto">Moto</string>
     <string name="theme_navbar_picker_nexus">Nexus</string>
     <string name="theme_navbar_picker_old">Старый</string>
     <string name="theme_navbar_picker_sammy">Samsung</string>
@@ -74,14 +74,14 @@
 
     <!-- Switch styles -->
     <string name="switch_style_title">Стиль переключения</string>
-    <string name="switch_default">Дефолт</string>
-    <string name="switch_md2">Материальный дизайн 2</string>
+    <string name="switch_default">По умолчанию</string>
+    <string name="switch_md2">Материал дизайн 2</string>
     <string name="switch_oneplus">OnePlus</string>
-    <string name="switch_tg">Телеграмма</string>
+    <string name="switch_tg">Телеграм</string>
     <string name="switch_narrow">Узкий</string>
-    <string name="switch_contained">Содержится</string>
+    <string name="switch_contained">Заполненный</string>
     <string name="switch_retro">Ретро</string>
-    <string name="switch_stockish">Stockish</string>
+    <string name="switch_stockish">Стоковый</string>
     <string name="switch_style_dialog_title">Выбрать набор стилей переключателя</string>
 
     <!-- Accents -->
@@ -96,23 +96,23 @@
     <string name="accent_colors_carbon">Углерод</string>
     <string name="accent_colors_palette">Палитра</string>
     <string name="accent_colors_sand">Песок</string>
-    <string name="accent_colors_tangerine">мандарин</string>
+    <string name="accent_colors_tangerine">Мандарин</string>
     <string name="accent_colors_amber">Янтарь</string>
-    <string name="accent_colors_azureradiance">AzureRadiance</string>
+    <string name="accent_colors_azureradiance">Лазурное сияние</string>
     <string name="accent_colors_blue">Синий</string>
     <string name="accent_colors_bluegrey">Серо-голубой</string>
     <string name="accent_colors_brown">коричневый</string>
     <string name="accent_colors_cyan">Голубой</string>
-    <string name="accent_colors_deeporange">Deep Orange</string>
+    <string name="accent_colors_deeporange">Темно-оранжевый</string>
     <string name="accent_colors_deeppurple">Темно-фиолетовый</string>
     <string name="accent_colors_grey">Серый</string>
     <string name="accent_colors_indigo">Индиго</string>
     <string name="accent_colors_lightblue">Светло-синий</string>
     <string name="accent_colors_lightgreen">Светло-зеленый</string>
     <string name="accent_colors_lime">Лайм</string>
-    <string name="accent_colors_orange">апельсин</string>
+    <string name="accent_colors_orange">Апельсин</string>
     <string name="accent_colors_pink">Розовый</string>
-    <string name="accent_colors_red">красный</string>
+    <string name="accent_colors_red">Красный</string>
     <string name="accent_colors_teal">Бирюзовый</string>
     <string name="accent_colors_yellow">Желтый</string>
     <string name="accent_colors_androidonegreen">AndroidOneGreen</string>
@@ -138,15 +138,15 @@
     <!-- Themes -->
     <string name="theme_type_title">Системная тема</string>
     <string name="theme_type_summary">Выберите тему</string>
-    <string name="theme_type_light">Свет</string>
-    <string name="theme_type_google_dark">Google темный</string>
-    <string name="theme_type_pitch_black">Черный как смоль</string>
+    <string name="theme_type_light">Светлая</string>
+    <string name="theme_type_google_dark">Google темная</string>
+    <string name="theme_type_pitch_black">Кромешная тьма</string>
     <string name="theme_type_solarized_dark">Соляризованная тьма</string>
     <string name="theme_type_choco_x">Choco X</string>
-    <string name="theme_type_baked_green">Запеченная зелень</string>
+    <string name="theme_type_baked_green">Запеченый зеленый</string>
     <string name="theme_type_dark_grey">Темно-серый</string>
-    <string name="theme_type_material_ocean">Материальный океан</string>
-    <string name="theme_type_transparent_clear">прозрачный прозрачный</string>
+    <string name="theme_type_material_ocean">Материал океан</string>
+    <string name="theme_type_transparent_clear">Прозрачный</string>
     <string name="theme_other_category_title">Другой</string>
     <string name="theme_backup_title">Тема для резервного копирования</string>
     <string name="theme_backup_summary">Сделайте резервную копию вашей текущей конфигурации темы</string>
@@ -155,7 +155,7 @@
     <string name="theme_restore_summary">Восстановить сохраненную конфигурацию темы</string>
     <string name="theme_restore_no_backup_summary">Нет резервной копии</string>
     <string name="theme_restore_popup_title">Проведите по экрану по горизонтали, чтобы просмотреть больше резервных копий</string>
-    <string name="theme_name_exist_warning">Это резервное имя уже существует. Введите новый.</string>
+    <string name="theme_name_exist_warning">Это резервное имя уже существует. Введите новое.</string>
     <string name="theme_rename_dialog_title">Переименовать тему</string>
     <string name="theme_button_apply_theme">Применить тему</string>
     <string name="theme_button_delete_theme">Удалить тему</string>
@@ -165,12 +165,12 @@
     <string name="theme_switch_restore_font_type">Тип шрифта</string>
     <string name="theme_switch_restore_adaptative_icons">Адаптивные иконки</string>
     <string name="theme_switch_restore_sb_icons">Значки в строке состояния</string>
-    <string name="theme_switch_restore_qstiles">Стиль плитки QS</string>
+    <string name="theme_switch_restore_qstiles">Стиль значков быстрых настроек</string>
     <string name="theme_switch_restore_navbar">Панель навигации</string>
-    <string name="theme_switch_restore_wallpaper">Обои на стену</string>
+    <string name="theme_switch_restore_wallpaper">Обои</string>
     <string name="theme_backup_edittext_hint">Резервный_</string>
     <string name="theme_backup_dialog_title">Обнаружены живые обои</string>
-    <string name="theme_backup_dialog_message">Похоже, что у вас применены живые обои. \N \nОбратите внимание, что резервные копии живых обоев не будут скопированы. Вместо этого будет создана резервная копия обоев по умолчанию.</string>
+    <string name="theme_backup_dialog_message">Похоже, что у вас применены живые обои.\n\nОбратите внимание, что резервные копии живых обоев не будут скопированы. Вместо этого будет создана резервная копия обоев по умолчанию.</string>
     <string name="theme_reset_dialog_title">Сбросить параметры темы</string>
     <string name="theme_reset_dialog_message">Все параметры темы будут сброшены до значений по умолчанию. Это не повлияет на расписание.</string>
     <string name="theme_reset_toast">Параметры темы вернуться к значениям по умолчанию</string>
@@ -181,10 +181,10 @@
     <string name="theme_schedule_dyn_summary">тема запланирована</string>
     <string name="theme_schedule_theme_title">Тема расписания</string>
     <string name="theme_schedule_theme_summary">Выберите тему для расписания</string>
-    <string name="theme_schedule_none">Никто</string>
+    <string name="theme_schedule_none">Нет</string>
     <string name="theme_schedule_custom_time">Включается в определенное время</string>
     <string name="theme_schedule_applied">тема применена</string>
-    <string name="theme_schedule_start_scheduled">тема начинается в</string>
+    <string name="theme_schedule_start_scheduled">тема включается в</string>
     <string name="theme_schedule_repeat_title">Расписание повтора</string>
     <string name="theme_schedule_repeat_summary">Повторяет расписание ежедневно</string>
     <string name="theme_schedule_toasts_title">Показывать тосты</string>
@@ -192,7 +192,7 @@
 
     <!-- Clock style -->
     <string name="clock_style_title">Стиль часов</string>
-    <string name="clock_style_summary">Настроить часы на заблокированном экране</string>
+    <string name="clock_style_summary">Настройка часов на заблокированном экране</string>
 
     <!-- Fonts -->
     <string name="font_type_title">Тип шрифта</string>
@@ -229,32 +229,32 @@
     <string name="font_type_30">Urbanist</string>
 
     <!-- QS tile styles -->
-    <string name="theme_qsstyle_picker_title">QS стиль плитки</string>
-    <string name="theme_qsstyle_picker_summary">Выберите стиль плитки QS</string>
-    <string name="qstile_default">Дефолт</string>
-    <string name="qstile_circle_trim">Круг с отделкой</string>
+    <string name="theme_qsstyle_picker_title">Стиль значков в быстрых настройках</string>
+    <string name="theme_qsstyle_picker_summary">Выберите стиль значков</string>
+    <string name="qstile_default">По умолчанию</string>
+    <string name="qstile_circle_trim">Круг с окантовкой</string>
     <string name="qstile_dual_tone_circle">Двухцветный круг</string>
-    <string name="qstile_squircle_trim">Squircle с отделкой</string>
-    <string name="qstile_attempt_mountain">Попытка горы</string>
+    <string name="qstile_squircle_trim">Сквиркл с окантовкой</string>
+    <string name="qstile_attempt_mountain">Гора</string>
     <string name="qstile_cosmos">Космос</string>
     <string name="qstile_dotted_circle">Пунктирный круг</string>
     <string name="qstile_ninja">Ниндзя</string>
-    <string name="qstile_poke_sign">Тыкай знак</string>
-    <string name="qstile_wavey">Wavey</string>
+    <string name="qstile_poke_sign">Покемон</string>
+    <string name="qstile_wavey">Волны</string>
 
     <!-- Panel Background style -->
     <string name="panel_bg_title">Стиль фона панели</string>
-    <string name="panel_bg_dialog_title">Выбрать модель фона панели</string>
-    <string name="panel_default">Дефолт</string>
+    <string name="panel_bg_dialog_title">Выбрать стиль фона панели</string>
+    <string name="panel_default">По умолчанию</string>
     <string name="panel_batik">Батик</string>
     <string name="panel_kece">Kece</string>
     <string name="panel_outline">Контур</string>
 
     <string name="rounded_ui_title">Закругленный угол</string>
-    <string name="rounded_ui_dialog_title">Выберите модель с закругленными углами</string>
-    <string name="rounded_style_default">Дефолт</string>
-    <string name="rounded_style_rectangle">Прямоугольник</string>
+    <string name="rounded_ui_dialog_title">Выберите размер закругленных углов</string>
+    <string name="rounded_style_default">По умолчанию</string>
+    <string name="rounded_style_rectangle">Маленький</string>
     <string name="rounded_style_large">Большой</string>
-    <string name="rounded_style_medium">Середина</string>
+    <string name="rounded_style_medium">Средний</string>
 
 </resources>
